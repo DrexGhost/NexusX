@@ -1,5 +1,3 @@
-#NexusX
-
 local player = game.Players.LocalPlayer
 local gui = Instance.new("ScreenGui", player:WaitForChild("PlayerGui"))
 gui.Name = "DeltaMenu"
